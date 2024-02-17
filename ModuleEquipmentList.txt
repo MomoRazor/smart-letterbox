@@ -1,0 +1,7 @@
+The following is a list of equipment used:
+
+- Arduino Nano
+- ESP-01S Serial Wifi Module
+- 2xAA Batteries
+- IR Infrared Obstacle Avoidance Sensor
+	- This should be upgrade to a HC-SR04 Ultrasonic Sensor
