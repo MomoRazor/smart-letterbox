@@ -112,9 +112,6 @@ void setup() {
   sensor.begin();
 
   delay(1000);
-
-  setupEmptySpace();
-
 }
 
 void loop() {
